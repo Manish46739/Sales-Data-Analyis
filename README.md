@@ -4,6 +4,7 @@ This project demonstrates how to analyze sales data using Python in a Jupyter no
 <br>
 Prerequisites
 
+
 Python 3.x
 
 Jupyter Notebook
